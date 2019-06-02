@@ -1,0 +1,30 @@
+################## CANAIS #####################
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0iN2TBhTkLOPNXBNs3ldFufRlAzIkH9CTRXgz-oxDI1UFrCUl0A" group-title="CANAIS", TNT
+https://display.shutterstock.com/CRTV+2019/It's+Not+Stock/Feb/Dog-PT/72890.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5ENVbRnh_06TuhKMTNajuww_gxgeiM26CUSEA_LQollhmSt6" group-title="CANAIS", Space
+https://ul.cdn574.net:8443/hls/nhklelng.m3u8?s=XSx_4csyytUoh18ORN3WIA&e=1559514095
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXqvaneDRHzG6aa52kRuW7yWNA2VUfmu4A4lbJNvEbHu9Tn8w7A" group-title="CANAIS", Discovery H&H
+https://assistirtvonline.xyz:25463/live/Domingo/Maracana/106.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuuAypx25E8avvWcFJk1YEhdfHffY7CPz6-2xrZ36d4-hq8TOjw" group-title="CANAIS", Multishow
+https://tvweb.xyz:25463/live/Domingo/Maracana/86.m3u8?token=QxBcWRdYGgoRBQZUVlYPXAFRVwBXB1FSCwYKBAsNAlYMAAMOXQQAVFJDHxcXREpcVghtUVcUXlsOHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReDU1eVB8aXE1DXUBaWQhvXFVFCFBQRgpWTFsJHhpcWDsHXV9ZXVwbDxUJEBgaDUNIEglDcUcFQ1FVFzFXVFZVCw4YYRZyFhsZFVpbQEoFRF0SCQ9GWQgcGlpYEFxMQU9GWRpwahEUG1BPTFdaSw1fVhIJQ14GEQgaFRUMQWdBUxcXSldZXl1LFw0aAhYURl1ZSGwCXFsKVVtNXgpcSxEMRlMaHhpeV1dcQ1dAa0gNVBoKXRRfWRk=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjkVbMCnXW6CA8jYtRa9F9cHtd2K6d4fKI3XxygvYgT60OqeRU" group-title="CANAIS", Warnner Channel
+https://assistirtvonline.xyz:25463/live/Domingo/Maracana/116.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_17IKa-S13gapbKSy-g1ofxIHvKlhYRnDT9gmQQHENZvX7YKa" group-title="CANAIS", Cinemax
+https://tvweb.xyz:25463/live/Domingo/Maracana/76.m3u8?token=QxBcWRdYGgoRAlZTVgRaDANWUA5SBVFWXQdaCw8PDFJbU1FbAQgIA1FDHxcXREpcVghtUVcUXlQOHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQoCAAYBGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GckpYRAxeGGdTCAZbXVUTaxd0GRoeFloNREpRRwQRD0YBCQgGRx4aUFkRDUxAQRECG3dlGh4WXRxEXV5ACFxbRgoaVAQQChofFA0QZ0BdQExLUFZVV0YaXhIIEh9DXlQcb1tWWQtXW0dfCw1LEAIRCBsZFVVdWlEQX0pvQwhXF14SCgwPXAcaTg==
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1l8QT8cbOhIIoHyRTmNc4wIAPg1L1nt_8-iYiSVC4Kes7TGo7" group-title="CANAIS", Investigação Discovery
+https://assistirtvonline.xyz:25463/live/Domingo/Maracana/115.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxnGD1yxOPUJO0km8fF3foyPfgU5XRxbP-pRRILxpezbb5s5vOcQ" group-title="CANAIS",GNT
+https://tvweb.xyz:25463/live/Domingo/Maracana/89.m3u8?token=QxBcWRdYGgoRUQENUgcBXw9RCwxWB11aWldaBV5bVw5aAgBbAAgKUgVDHxcXREpcVghtUVcUXlsBHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQoGCQUAGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GckpYRAxeGGdTCAZbXVUTaxd0GRoeFloNREpRRwQRD0YBCA4BRx4aUFkRDUxAQRECG3dlGh4WXRxEXV5ACFxbRgoaVAQQChofFA0QZ0BdQExLUFZVV0YaXhIIEh9DXlQcb1tWWQtXW0dfCw1LEAIRCBsZFVVdWlEQX0pvQwhXF14SCg0DUwoaTg==
+
+#EXTINF:-1 tvg-logo=" " group-title="CANAIS",
+
+
+#EXTINF:-1 tvg-logo=" " group-title="CANAIS",
